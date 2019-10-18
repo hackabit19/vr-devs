@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: decbebb6a6182be459ad87bfaeed6702
+timeCreated: 1428935331
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wall Half Bricks
+    100004: Wall Hole Bricks
+    100006: Wall Half Bricks Half
+    100008: Wall Half Bricks Half 2
+    100010: Wall Bricks Quater 1
+    100012: Wall Bricks Quater 2
+    100014: Wall Bricks Quater 3
+    100016: Wall Bricks Quater 4
+    100018: Wall_Bricks_Quater_1
+    100020: Wall_Bricks_Quater_2
+    100022: Wall_Bricks_Quater_3
+    100024: Wall_Bricks_Quater_4
+    100026: Wall_Half_Bricks
+    100028: Wall_Half_Bricks_Half
+    100030: Wall_Half_Bricks_Half_2
+    100032: Wall_Hole_Bricks
+    100034: Wal _Bricks Quater 2
+    100036: Wall Bricks Quater 1 1
+    100038: Wall Bricks Quater 4 1
+    100040: Wall Half Bricks 1
+    100042: Wall Half Bricks Half 1
+    100044: Wall Half Bricks Half 2 1
+    400000: //RootNode
+    400002: Wall Half Bricks
+    400004: Wall Hole Bricks
+    400006: Wall Half Bricks Half
+    400008: Wall Half Bricks Half 2
+    400010: Wall Bricks Quater 1
+    400012: Wall Bricks Quater 2
+    400014: Wall Bricks Quater 3
+    400016: Wall Bricks Quater 4
+    400018: Wall_Bricks_Quater_1
+    400020: Wall_Bricks_Quater_2
+    400022: Wall_Bricks_Quater_3
+    400024: Wall_Bricks_Quater_4
+    400026: Wall_Half_Bricks
+    400028: Wall_Half_Bricks_Half
+    400030: Wall_Half_Bricks_Half_2
+    400032: Wall_Hole_Bricks
+    400034: Wal _Bricks Quater 2
+    400036: Wall Bricks Quater 1 1
+    400038: Wall Bricks Quater 4 1
+    400040: Wall Half Bricks 1
+    400042: Wall Half Bricks Half 1
+    400044: Wall Half Bricks Half 2 1
+    2300000: Wall Half Bricks
+    2300002: Wall Hole Bricks
+    2300004: Wall Half Bricks Half
+    2300006: Wall Half Bricks Half 2
+    2300008: Wall Bricks Quater 1
+    2300010: Wall Bricks Quater 2
+    2300012: Wall Bricks Quater 3
+    2300014: Wall Bricks Quater 4
+    2300016: Wall_Bricks_Quater_1
+    2300018: Wall_Bricks_Quater_2
+    2300020: Wall_Bricks_Quater_3
+    2300022: Wall_Bricks_Quater_4
+    2300024: Wall_Half_Bricks
+    2300026: Wall_Half_Bricks_Half
+    2300028: Wall_Half_Bricks_Half_2
+    2300030: Wall_Hole_Bricks
+    2300032: Wal _Bricks Quater 2
+    2300034: Wall Bricks Quater 1 1
+    2300036: Wall Bricks Quater 4 1
+    2300038: Wall Half Bricks 1
+    2300040: Wall Half Bricks Half 1
+    2300042: Wall Half Bricks Half 2 1
+    3300000: Wall Half Bricks
+    3300002: Wall Hole Bricks
+    3300004: Wall Half Bricks Half
+    3300006: Wall Half Bricks Half 2
+    3300008: Wall Bricks Quater 1
+    3300010: Wall Bricks Quater 2
+    3300012: Wall Bricks Quater 3
+    3300014: Wall Bricks Quater 4
+    3300016: Wall_Bricks_Quater_1
+    3300018: Wall_Bricks_Quater_2
+    3300020: Wall_Bricks_Quater_3
+    3300022: Wall_Bricks_Quater_4
+    3300024: Wall_Half_Bricks
+    3300026: Wall_Half_Bricks_Half
+    3300028: Wall_Half_Bricks_Half_2
+    3300030: Wall_Hole_Bricks
+    3300032: Wal _Bricks Quater 2
+    3300034: Wall Bricks Quater 1 1
+    3300036: Wall Bricks Quater 4 1
+    3300038: Wall Half Bricks 1
+    3300040: Wall Half Bricks Half 1
+    3300042: Wall Half Bricks Half 2 1
+    4300000: Wall Half Bricks
+    4300002: Wall Hole Bricks
+    4300004: Wall Half Bricks Half
+    4300006: Wall Half Bricks Half 2
+    4300008: Wall Bricks Quater 1
+    4300010: Wall Bricks Quater 3
+    4300012: Wall Bricks Quater 2
+    4300014: Wall Bricks Quater 4
+    4300016: Wall_Half_Bricks
+    4300018: Wall_Hole_Bricks
+    4300020: Wall_Half_Bricks_Half
+    4300022: Wall_Half_Bricks_Half_2
+    4300024: Wall_Bricks_Quater_1
+    4300026: Wall_Bricks_Quater_3
+    4300028: Wall_Bricks_Quater_2
+    4300030: Wall_Bricks_Quater_4
+    4300032: Wall Half Bricks
+    4300034: Wall Half Bricks Half
+    4300036: Wall Half Bricks Half 2
+    4300038: Wall Bricks Quater 1
+    4300040: Wal _Bricks Quater 2
+    4300042: Wall Bricks Quater 4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

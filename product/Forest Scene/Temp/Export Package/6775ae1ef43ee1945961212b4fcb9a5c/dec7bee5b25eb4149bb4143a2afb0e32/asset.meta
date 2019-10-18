@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: dec7bee5b25eb4149bb4143a2afb0e32
+timeCreated: 1428268755
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Plank Long Curve Optimized
+    100002: Plank Long Curve Subtle Optimized
+    100004: Plank Medium Curve Optimized
+    100006: Plank Medium Curve Subtle
+    100008: Plank Surface Long Bend Optimized
+    100010: Plank Surface Short Bend Optimized
+    100012: //RootNode
+    100014: Plank Medium Curve Subtle Optimized
+    100016: Plank Thick Curve Optimized
+    400000: Plank Long Curve Optimized
+    400002: Plank Long Curve Subtle Optimized
+    400004: Plank Medium Curve Optimized
+    400006: Plank Medium Curve Subtle
+    400008: Plank Surface Long Bend Optimized
+    400010: Plank Surface Short Bend Optimized
+    400012: //RootNode
+    400014: Plank Medium Curve Subtle Optimized
+    400016: Plank Thick Curve Optimized
+    2300000: Plank Long Curve Optimized
+    2300002: Plank Long Curve Subtle Optimized
+    2300004: Plank Medium Curve Optimized
+    2300006: Plank Medium Curve Subtle
+    2300008: Plank Surface Long Bend Optimized
+    2300010: Plank Surface Short Bend Optimized
+    2300012: Plank Medium Curve Subtle Optimized
+    2300014: Plank Thick Curve Optimized
+    3300000: Plank Long Curve Optimized
+    3300002: Plank Long Curve Subtle Optimized
+    3300004: Plank Medium Curve Optimized
+    3300006: Plank Medium Curve Subtle
+    3300008: Plank Surface Long Bend Optimized
+    3300010: Plank Surface Short Bend Optimized
+    3300012: Plank Medium Curve Subtle Optimized
+    3300014: Plank Thick Curve Optimized
+    4300000: Plank Surface Short Bend Optimized
+    4300002: Plank Surface Long Bend Optimized
+    4300004: Plank Long Curve Subtle Optimized
+    4300006: Plank Medium Curve Optimized
+    4300008: Plank Long Curve Optimized
+    4300010: Plank Medium Curve Subtle
+    4300012: Plank Medium Curve Subtle Optimized
+    4300014: Plank Thick Curve Optimized
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

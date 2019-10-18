@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: fc210ccba24e9424f91d263596031baf
+timeCreated: 1428354013
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Wall Clean Optimized
+    100002: Wall Cracked Optimized
+    100004: Wall Half Optimized
+    100006: Wall Hole Optimized
+    100008: //RootNode
+    100010: Wall Clean Divided 1 Optimized
+    100012: Wall Clean Divided 2 Optimized
+    100014: Wall Clean Divided 3 Optimized
+    100016: Wall Clean Divided 4 Optimized
+    100018: Wall Clean Thin 1 Optimized
+    100020: Wall Clean Thin 2 Optimized
+    100022: Wall Clean Thin 3 Optimized
+    100024: Wall Cracked Divided 1 Optimized
+    100026: Wall Cracked Divided 2 Optimized
+    100028: Wall Cracked Divided 3 Optimized
+    100030: Wall Cracked Divided 4 Optimized
+    100032: Wall Cracked Thiin 1 Optimized
+    100034: Wall Cracked Thiin 2 Optimized
+    100036: Wall Cracked Thiin 3 Optimized
+    100038: Wall Cracked Triangle Wide 1 Optimized
+    100040: Wall Cracked Triangle Wide 2 Optimized
+    100042: Wall Cracked Triangle Wide 3 Optimized
+    100044: Wall Cracked Triangle Wide 4 Optimized
+    100046: Wall Half Divided 1 Optimized
+    100048: Wall Half Divided 2 Optimized
+    100050: Wall Half Divided 3 Optimized
+    100052: Wall Half Divided 4 Optimized
+    100054: Wall Half Thin 1 Optimized
+    100056: Wall Half Thin 2 Optimized
+    100058: Wall Hole Divided 1 Optimized
+    100060: Wall Hole Divided 2 Optimized
+    100062: Wall Hole Divided 3 Optmized
+    100064: Wall Hole Divided 4 Optimized
+    100066: Wall Hole Thin Optimized
+    100068: Wall Hole Triangle Wide Optimized
+    400000: Wall Clean Optimized
+    400002: Wall Cracked Optimized
+    400004: Wall Half Optimized
+    400006: Wall Hole Optimized
+    400008: //RootNode
+    400010: Wall Clean Divided 1 Optimized
+    400012: Wall Clean Divided 2 Optimized
+    400014: Wall Clean Divided 3 Optimized
+    400016: Wall Clean Divided 4 Optimized
+    400018: Wall Clean Thin 1 Optimized
+    400020: Wall Clean Thin 2 Optimized
+    400022: Wall Clean Thin 3 Optimized
+    400024: Wall Cracked Divided 1 Optimized
+    400026: Wall Cracked Divided 2 Optimized
+    400028: Wall Cracked Divided 3 Optimized
+    400030: Wall Cracked Divided 4 Optimized
+    400032: Wall Cracked Thiin 1 Optimized
+    400034: Wall Cracked Thiin 2 Optimized
+    400036: Wall Cracked Thiin 3 Optimized
+    400038: Wall Cracked Triangle Wide 1 Optimized
+    400040: Wall Cracked Triangle Wide 2 Optimized
+    400042: Wall Cracked Triangle Wide 3 Optimized
+    400044: Wall Cracked Triangle Wide 4 Optimized
+    400046: Wall Half Divided 1 Optimized
+    400048: Wall Half Divided 2 Optimized
+    400050: Wall Half Divided 3 Optimized
+    400052: Wall Half Divided 4 Optimized
+    400054: Wall Half Thin 1 Optimized
+    400056: Wall Half Thin 2 Optimized
+    400058: Wall Hole Divided 1 Optimized
+    400060: Wall Hole Divided 2 Optimized
+    400062: Wall Hole Divided 3 Optmized
+    400064: Wall Hole Divided 4 Optimized
+    400066: Wall Hole Thin Optimized
+    400068: Wall Hole Triangle Wide Optimized
+    2300000: Wall Clean Optimized
+    2300002: Wall Cracked Optimized
+    2300004: Wall Half Optimized
+    2300006: Wall Hole Optimized
+    2300008: Wall Clean Divided 1 Optimized
+    2300010: Wall Clean Divided 2 Optimized
+    2300012: Wall Clean Divided 3 Optimized
+    2300014: Wall Clean Divided 4 Optimized
+    2300016: Wall Clean Thin 1 Optimized
+    2300018: Wall Clean Thin 2 Optimized
+    2300020: Wall Clean Thin 3 Optimized
+    2300022: Wall Cracked Divided 1 Optimized
+    2300024: Wall Cracked Divided 2 Optimized
+    2300026: Wall Cracked Divided 3 Optimized
+    2300028: Wall Cracked Divided 4 Optimized
+    2300030: Wall Cracked Thiin 1 Optimized
+    2300032: Wall Cracked Thiin 2 Optimized
+    2300034: Wall Cracked Thiin 3 Optimized
+    2300036: Wall Cracked Triangle Wide 1 Optimized
+    2300038: Wall Cracked Triangle Wide 2 Optimized
+    2300040: Wall Cracked Triangle Wide 3 Optimized
+    2300042: Wall Cracked Triangle Wide 4 Optimized
+    2300044: Wall Half Divided 1 Optimized
+    2300046: Wall Half Divided 2 Optimized
+    2300048: Wall Half Divided 3 Optimized
+    2300050: Wall Half Divided 4 Optimized
+    2300052: Wall Half Thin 1 Optimized
+    2300054: Wall Half Thin 2 Optimized
+    2300056: Wall Hole Divided 1 Optimized
+    2300058: Wall Hole Divided 2 Optimized
+    2300060: Wall Hole Divided 3 Optmized
+    2300062: Wall Hole Divided 4 Optimized
+    2300064: Wall Hole Thin Optimized
+    2300066: Wall Hole Triangle Wide Optimized
+    3300000: Wall Clean Optimized
+    3300002: Wall Cracked Optimized
+    3300004: Wall Half Optimized
+    3300006: Wall Hole Optimized
+    3300008: Wall Clean Divided 1 Optimized
+    3300010: Wall Clean Divided 2 Optimized
+    3300012: Wall Clean Divided 3 Optimized
+    3300014: Wall Clean Divided 4 Optimized
+    3300016: Wall Clean Thin 1 Optimized
+    3300018: Wall Clean Thin 2 Optimized
+    3300020: Wall Clean Thin 3 Optimized
+    3300022: Wall Cracked Divided 1 Optimized
+    3300024: Wall Cracked Divided 2 Optimized
+    3300026: Wall Cracked Divided 3 Optimized
+    3300028: Wall Cracked Divided 4 Optimized
+    3300030: Wall Cracked Thiin 1 Optimized
+    3300032: Wall Cracked Thiin 2 Optimized
+    3300034: Wall Cracked Thiin 3 Optimized
+    3300036: Wall Cracked Triangle Wide 1 Optimized
+    3300038: Wall Cracked Triangle Wide 2 Optimized
+    3300040: Wall Cracked Triangle Wide 3 Optimized
+    3300042: Wall Cracked Triangle Wide 4 Optimized
+    3300044: Wall Half Divided 1 Optimized
+    3300046: Wall Half Divided 2 Optimized
+    3300048: Wall Half Divided 3 Optimized
+    3300050: Wall Half Divided 4 Optimized
+    3300052: Wall Half Thin 1 Optimized
+    3300054: Wall Half Thin 2 Optimized
+    3300056: Wall Hole Divided 1 Optimized
+    3300058: Wall Hole Divided 2 Optimized
+    3300060: Wall Hole Divided 3 Optmized
+    3300062: Wall Hole Divided 4 Optimized
+    3300064: Wall Hole Thin Optimized
+    3300066: Wall Hole Triangle Wide Optimized
+    4300000: Wall Clean Optimized
+    4300002: Wall Cracked Optimized
+    4300004: Wall Hole Optimized
+    4300006: Wall Half Optimized
+    4300008: Wall Half Divided 4 Optimized
+    4300010: Wall Cracked Divided 3 Optimized
+    4300012: Wall Hole Divided 3 Optmized
+    4300014: Wall Clean Divided 1 Optimized
+    4300016: Wall Clean Divided 4 Optimized
+    4300018: Wall Clean Divided 2 Optimized
+    4300020: Wall Clean Divided 3 Optimized
+    4300022: Wall Cracked Divided 1 Optimized
+    4300024: Wall Cracked Divided 4 Optimized
+    4300026: Wall Cracked Divided 2 Optimized
+    4300028: Wall Hole Divided 1 Optimized
+    4300030: Wall Hole Divided 2 Optimized
+    4300032: Wall Hole Divided 4 Optimized
+    4300034: Wall Half Divided 2 Optimized
+    4300036: Wall Half Divided 1 Optimized
+    4300038: Wall Half Divided 3 Optimized
+    4300040: Wall Cracked Triangle Wide 3 Optimized
+    4300042: Wall Cracked Triangle Wide 1 Optimized
+    4300044: Wall Cracked Triangle Wide 2 Optimized
+    4300046: Wall Cracked Triangle Wide 4 Optimized
+    4300048: Wall Hole Triangle Wide Optimized
+    4300050: Wall Half Thin 1 Optimized
+    4300052: Wall Cracked Thiin 2 Optimized
+    4300054: Wall Clean Thin 3 Optimized
+    4300056: Wall Hole Thin Optimized
+    4300058: Wall Clean Thin 2 Optimized
+    4300060: Wall Clean Thin 1 Optimized
+    4300062: Wall Cracked Thiin 3 Optimized
+    4300064: Wall Cracked Thiin 1 Optimized
+    4300066: Wall Half Thin 2 Optimized
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
