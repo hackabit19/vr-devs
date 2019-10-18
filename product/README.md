@@ -59,7 +59,7 @@ Together the scales suggested in the study suggest that the negative changes in 
 
 19. The Impact of Monaural Beat Stimulation on Anxiety and Cognition (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430051/): Results: Although auditory beat research has tended toward using binaural beats as stimuli, our findings suggest a potential role for monaural beat stimulation in treating symptoms of anxiety disorders, in a fast and non-invasive manner. Future studies will aim at identifying ideal target populations for monaural beat stimulation and at optimizing stimulation parameters, for instance, by increasing the stimulation duration or by repetitive applications of the beat stimuli.
 
-20: Cumulative effects of theta binaural beats on brain power and functional connectivity (https://sci-hub.tw/https://www.sciencedirect.com/science/article/abs/pii/S1746809418300296): As the idea of brain entrainment suggests, because the specific frequency of the stimulation is 7 Hz, observation in the theta power should be in priority which will enable us to achieve effective changes in the brain function
+20. Cumulative effects of theta binaural beats on brain power and functional connectivity (https://sci-hub.tw/https://www.sciencedirect.com/science/article/abs/pii/S1746809418300296): As the idea of brain entrainment suggests, because the specific frequency of the stimulation is 7 Hz, observation in the theta power should be in priority which will enable us to achieve effective changes in the brain function
 
 # Literature on the effect of virtual environments as Mood Induction Procedures:
 
