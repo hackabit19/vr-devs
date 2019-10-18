@@ -1,5 +1,19 @@
 # Getting Started with the Product
 
+Our basic idea is to search for the kind of environment (visual and auditory) that helps reduce depressive/anxious mood aggravations.
+
+Background research for the same is our first priority before we develop any virtual environment. We have moved the detaild research to the end, in order to keep the basics of our approach consice.
+1. Research on auditory influence in modulating the mood of a person
+2. Research on the effectiveness of MIPs (Mood Induction Procedures) in inducing specific targeted moods into a person, and the extent to which the person feels presence of that environment all around them.
+
+# How we plan to approach the problem
+
+Based on our preliminary research, we have come across a couple of different techniques:
+
+1. Music therapy: the umbrella of techniques in which different frequencies are administered in an attempt to reduce negative emotions.
+2. Mood Induction Procedures: the techniques developed (ever since the work of Schachter and Singer where they talk about how physiological emotions elicited are tried to be connected to stimuli cues) that allow induction of specific positive (or even negative) emotions in the subject. 
+
+# Literature on the effect of different frequencies on the mood of the subject. We have usually targeted articles on moods relating to anxiety, negative thoughts, and similar depressive moods.
 ![Logo](images/logo.png)
 
 Basic idea is to search for the kind of environment (visual and auditory) that helps reduce depressive/anxious mood aggravations.

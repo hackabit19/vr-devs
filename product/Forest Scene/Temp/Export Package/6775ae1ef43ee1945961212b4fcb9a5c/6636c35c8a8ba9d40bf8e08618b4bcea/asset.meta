@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 6636c35c8a8ba9d40bf8e08618b4bcea
+timeCreated: 1428263979
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Plank Diagonal Long Optimized
+    100002: Plank Diagonal Optimized
+    100004: Plank Long Optimized
+    100006: Plank Medium Optimized
+    100008: Plank Short Optimized
+    100010: Plank Surface Long Optimized
+    100012: Plank Surface Short Optimized
+    100014: Plank Thick Half Optimied
+    100016: Plank Thick Long Optimiezd
+    100018: Plank Thick Short Optimized
+    100020: //RootNode
+    100022: Plank Support Optimized
+    100024: Plank Diagonal Long Optimized Culled  Culled A
+    100026: Plank Diagonal Long Optimized Culled A
+    100028: Plank Diagonal Optimized Culled A
+    100030: Plank Diagonal Optimized Culled B
+    100032: Plank Long Optimized Culled A
+    100034: Plank Long Optimized Culled B
+    100036: Plank Medium Optimized Culled A
+    100038: Plank Medium Optimized Culled B
+    100040: Plank Short Optimized Culled A
+    100042: Plank Short Optimized Culled B
+    100044: Plank Support Optimized Culled
+    100046: Plank Surface Long Optimized Culled A
+    100048: Plank Surface Long Optimized Culled B
+    100050: Plank Surface Short Optimized Culled A
+    100052: Plank Surface Short Optimized Culled B
+    100054: Plank Thick Half Optimied Culled A
+    100056: Plank Thick Half Optimied Culled B
+    100058: Plank Thick Long Optimiezd Culled A
+    100060: Plank Thick Long Optimiezd Culled B
+    100062: Plank Thick Short Optimized Culled A
+    100064: Plank Thick Short Optimized Culled B
+    100066: Plank Diagonal Long Optimized Culled B
+    100068: Plank Surface Triangle
+    400000: Plank Diagonal Long Optimized
+    400002: Plank Diagonal Optimized
+    400004: Plank Long Optimized
+    400006: Plank Medium Optimized
+    400008: Plank Short Optimized
+    400010: Plank Surface Long Optimized
+    400012: Plank Surface Short Optimized
+    400014: Plank Thick Half Optimied
+    400016: Plank Thick Long Optimiezd
+    400018: Plank Thick Short Optimized
+    400020: //RootNode
+    400022: Plank Support Optimized
+    400024: Plank Diagonal Long Optimized Culled  Culled A
+    400026: Plank Diagonal Long Optimized Culled A
+    400028: Plank Diagonal Optimized Culled A
+    400030: Plank Diagonal Optimized Culled B
+    400032: Plank Long Optimized Culled A
+    400034: Plank Long Optimized Culled B
+    400036: Plank Medium Optimized Culled A
+    400038: Plank Medium Optimized Culled B
+    400040: Plank Short Optimized Culled A
+    400042: Plank Short Optimized Culled B
+    400044: Plank Support Optimized Culled
+    400046: Plank Surface Long Optimized Culled A
+    400048: Plank Surface Long Optimized Culled B
+    400050: Plank Surface Short Optimized Culled A
+    400052: Plank Surface Short Optimized Culled B
+    400054: Plank Thick Half Optimied Culled A
+    400056: Plank Thick Half Optimied Culled B
+    400058: Plank Thick Long Optimiezd Culled A
+    400060: Plank Thick Long Optimiezd Culled B
+    400062: Plank Thick Short Optimized Culled A
+    400064: Plank Thick Short Optimized Culled B
+    400066: Plank Diagonal Long Optimized Culled B
+    400068: Plank Surface Triangle
+    2300000: Plank Diagonal Long Optimized
+    2300002: Plank Diagonal Optimized
+    2300004: Plank Long Optimized
+    2300006: Plank Medium Optimized
+    2300008: Plank Short Optimized
+    2300010: Plank Surface Long Optimized
+    2300012: Plank Surface Short Optimized
+    2300014: Plank Thick Half Optimied
+    2300016: Plank Thick Long Optimiezd
+    2300018: Plank Thick Short Optimized
+    2300020: Plank Support Optimized
+    2300022: Plank Diagonal Long Optimized Culled  Culled A
+    2300024: Plank Diagonal Long Optimized Culled A
+    2300026: Plank Diagonal Optimized Culled A
+    2300028: Plank Diagonal Optimized Culled B
+    2300030: Plank Long Optimized Culled A
+    2300032: Plank Long Optimized Culled B
+    2300034: Plank Medium Optimized Culled A
+    2300036: Plank Medium Optimized Culled B
+    2300038: Plank Short Optimized Culled A
+    2300040: Plank Short Optimized Culled B
+    2300042: Plank Support Optimized Culled
+    2300044: Plank Surface Long Optimized Culled A
+    2300046: Plank Surface Long Optimized Culled B
+    2300048: Plank Surface Short Optimized Culled A
+    2300050: Plank Surface Short Optimized Culled B
+    2300052: Plank Thick Half Optimied Culled A
+    2300054: Plank Thick Half Optimied Culled B
+    2300056: Plank Thick Long Optimiezd Culled A
+    2300058: Plank Thick Long Optimiezd Culled B
+    2300060: Plank Thick Short Optimized Culled A
+    2300062: Plank Thick Short Optimized Culled B
+    2300064: Plank Diagonal Long Optimized Culled B
+    2300066: Plank Surface Triangle
+    3300000: Plank Diagonal Long Optimized
+    3300002: Plank Diagonal Optimized
+    3300004: Plank Long Optimized
+    3300006: Plank Medium Optimized
+    3300008: Plank Short Optimized
+    3300010: Plank Surface Long Optimized
+    3300012: Plank Surface Short Optimized
+    3300014: Plank Thick Half Optimied
+    3300016: Plank Thick Long Optimiezd
+    3300018: Plank Thick Short Optimized
+    3300020: Plank Support Optimized
+    3300022: Plank Diagonal Long Optimized Culled  Culled A
+    3300024: Plank Diagonal Long Optimized Culled A
+    3300026: Plank Diagonal Optimized Culled A
+    3300028: Plank Diagonal Optimized Culled B
+    3300030: Plank Long Optimized Culled A
+    3300032: Plank Long Optimized Culled B
+    3300034: Plank Medium Optimized Culled A
+    3300036: Plank Medium Optimized Culled B
+    3300038: Plank Short Optimized Culled A
+    3300040: Plank Short Optimized Culled B
+    3300042: Plank Support Optimized Culled
+    3300044: Plank Surface Long Optimized Culled A
+    3300046: Plank Surface Long Optimized Culled B
+    3300048: Plank Surface Short Optimized Culled A
+    3300050: Plank Surface Short Optimized Culled B
+    3300052: Plank Thick Half Optimied Culled A
+    3300054: Plank Thick Half Optimied Culled B
+    3300056: Plank Thick Long Optimiezd Culled A
+    3300058: Plank Thick Long Optimiezd Culled B
+    3300060: Plank Thick Short Optimized Culled A
+    3300062: Plank Thick Short Optimized Culled B
+    3300064: Plank Diagonal Long Optimized Culled B
+    3300066: Plank Surface Triangle
+    4300000: Plank Diagonal Long Optimized
+    4300002: Plank Surface Short Optimized
+    4300004: Plank Surface Long Optimized
+    4300006: Plank Long Optimized
+    4300008: Plank Medium Optimized
+    4300010: Plank Short Optimized
+    4300012: Plank Diagonal Optimized
+    4300014: Plank Thick Long Optimiezd
+    4300016: Plank Thick Half Optimied
+    4300018: Plank Thick Short Optimized
+    4300020: Plank Support Optimized
+    4300022: Plank Diagonal Long Optimized Culled A
+    4300024: Plank Medium Optimized Culled A
+    4300026: Plank Diagonal Optimized Culled A
+    4300028: Plank Thick Long Optimiezd Culled A
+    4300030: Plank Thick Short Optimized Culled A
+    4300032: Plank Thick Half Optimied Culled A
+    4300034: Plank Support Optimized Culled
+    4300036: Plank Surface Long Optimized Culled A
+    4300038: Plank Short Optimized Culled A
+    4300040: Plank Surface Short Optimized Culled A
+    4300042: Plank Long Optimized Culled A
+    4300044: Plank Diagonal Long Optimized Culled  Culled A
+    4300046: Plank Medium Optimized Culled B
+    4300048: Plank Long Optimized Culled B
+    4300050: Plank Diagonal Optimized Culled B
+    4300052: Plank Short Optimized Culled B
+    4300054: Plank Surface Long Optimized Culled B
+    4300056: Plank Thick Half Optimied Culled B
+    4300058: Plank Thick Short Optimized Culled B
+    4300060: Plank Thick Long Optimiezd Culled B
+    4300062: Plank Surface Short Optimized Culled B
+    4300064: Plank Diagonal Long Optimized Culled B
+    4300066: Plank Surface Triangle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 32
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

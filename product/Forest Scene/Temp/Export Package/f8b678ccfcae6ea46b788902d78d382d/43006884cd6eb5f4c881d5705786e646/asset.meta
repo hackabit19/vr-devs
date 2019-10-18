@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 43006884cd6eb5f4c881d5705786e646
+timeCreated: 1428441803
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Stone Surface
+    100004: Stone Surface Half
+    100006: Stone Surface Quarter
+    100008: Stone Surface Thin
+    100010: Stone Wall
+    100012: Stone Surface Diagonal 1
+    100014: Stone Surface Diagonal 2
+    100016: Stone Surface Triangle
+    100018: Stone Surface Diagonal Half
+    400000: //RootNode
+    400002: Stone Surface
+    400004: Stone Surface Half
+    400006: Stone Surface Quarter
+    400008: Stone Surface Thin
+    400010: Stone Wall
+    400012: Stone Surface Diagonal 1
+    400014: Stone Surface Diagonal 2
+    400016: Stone Surface Triangle
+    400018: Stone Surface Diagonal Half
+    2300000: //RootNode
+    2300002: Stone Surface
+    2300004: Stone Surface Half
+    2300006: Stone Surface Quarter
+    2300008: Stone Surface Thin
+    2300010: Stone Wall
+    2300012: Stone Surface Diagonal 1
+    2300014: Stone Surface Diagonal 2
+    2300016: Stone Surface Triangle
+    2300018: Stone Surface Diagonal Half
+    3300000: //RootNode
+    3300002: Stone Surface
+    3300004: Stone Surface Half
+    3300006: Stone Surface Quarter
+    3300008: Stone Surface Thin
+    3300010: Stone Wall
+    3300012: Stone Surface Diagonal 1
+    3300014: Stone Surface Diagonal 2
+    3300016: Stone Surface Triangle
+    3300018: Stone Surface Diagonal Half
+    4300000: Stone Surface
+    4300002: Stone Wall
+    4300004: Stone Surface Half
+    4300006: Stone Surface Quarter
+    4300008: Stone Surface Thin
+    4300010: Stone Surface Diagonal 1
+    4300012: Stone Surface Diagonal 2
+    4300014: Stone Surface Triangle
+    4300016: Stone Surface Diagonal Half
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
