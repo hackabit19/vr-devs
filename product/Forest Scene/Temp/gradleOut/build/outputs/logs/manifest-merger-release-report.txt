@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [:gvr-keyboard:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\046093df84a9bb5af69270ecc8b13dc8\AndroidManifest.xml:2:1-11:12
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:2:1-31:12
+MERGED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:2:1-30:12
+MERGED from [:gvr:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\039ebe9bcfdb9a3170472252644d522c\AndroidManifest.xml:2:1-9:12
+MERGED from [:unitygvr:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\fc8b55c37af19361d67e9e8f00c3f944\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-117
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:118-164
+	android:versionCode
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:2:165-205
+supports-screens
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-19:17
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:11:5-28:19
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:4:48-80
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-47
+	android:theme
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:4:81-119
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.CARDBOARD
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-66
+category#com.google.intent.category.CARDBOARD
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-73
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-70
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-58
+meta-data#android.notch_support
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:12:7-78
+	android:value
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:12:55-75
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:12:18-54
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-75
+	android:value
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:17:51-72
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-50
+meta-data#notch.config
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:18:5-81
+	android:value
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:18:44-78
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:18:16-43
+uses-feature#0x00030000
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-52
+	android:glEsVersion
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:20:17-49
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-78
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:21:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-88
+	android:required
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-99
+	android:required
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:23:72-96
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-108
+	android:required
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:24:81-105
+	android:name
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml:24:17-80
+uses-sdk
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:gvr-keyboard:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\046093df84a9bb5af69270ecc8b13dc8\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboard:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\046093df84a9bb5af69270ecc8b13dc8\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\039ebe9bcfdb9a3170472252644d522c\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\039ebe9bcfdb9a3170472252644d522c\AndroidManifest.xml:5:5-7:41
+MERGED from [:unitygvr:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\fc8b55c37af19361d67e9e8f00c3f944\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\fc8b55c37af19361d67e9e8f00c3f944\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shiba\OneDrive\Documents\GitHub\vr-devs\product\Forest Scene\Temp\gradleOut\src\main\AndroidManifest.xml
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:21:13-37
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:18:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:24:13-27:29
+category#com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:26:17-80
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\a16ca0f63572200f6b8608b9af1ea717\AndroidManifest.xml:26:27-77
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\shiba\.gradle\caches\transforms-2\files-2.1\9e0c7f273db44d6798b5c25b3eb344ef\AndroidManifest.xml:18:13-81

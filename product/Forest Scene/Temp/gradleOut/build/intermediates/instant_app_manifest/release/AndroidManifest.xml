@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.DefaultCompany.Hackabitscenetrial"
+    android:installLocation="preferExternal"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="0.3" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-feature android:glEsVersion="0x00030000" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen.multitouch"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen.multitouch.distinct"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/VrActivityTheme" >
+        <activity
+            android:name="com.unity3d.player.UnityPlayerActivity"
+            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+            android:hardwareAccelerated="false"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="fullSensor" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="com.google.intent.category.CARDBOARD" />
+            </intent-filter>
+
+            <meta-data
+                android:name="unityplayer.UnityActivity"
+                android:value="true" />
+            <meta-data
+                android:name="android.notch_support"
+                android:value="true" />
+        </activity>
+
+        <meta-data
+            android:name="unityplayer.SkipPermissionsDialog"
+            android:value="true" />
+        <meta-data
+            android:name="unity.build-id"
+            android:value="2951c451-a9f0-4ead-a5bd-70cbf754a85f" />
+        <meta-data
+            android:name="unity.splash-mode"
+            android:value="0" />
+        <meta-data
+            android:name="unity.splash-enable"
+            android:value="False" />
+        <meta-data
+            android:name="notch.config"
+            android:value="portrait|landscape" />
+        <!-- For enableVrMode use the value vs. the string so Unity can build it. -->
+        <activity
+            android:name="com.google.gvr.keyboardsupport.TransitionVRActivity"
+            android:configChanges="orientation|screenSize"
+            android:enableVrMode="com.google.vr.vrcore/com.google.vr.vrcore.common.VrCoreListenerService"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:resizeableActivity="false" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="com.google.intent.category.DAYDREAM" />
+            </intent-filter>
+        </activity> <!-- For enableVrMode use the value vs. the string so Unity can build it. -->
+        <activity
+            android:name="com.google.gvr.permissionsupport.TransitionVRActivity"
+            android:configChanges="orientation|screenSize"
+            android:enableVrMode="com.google.vr.vrcore/com.google.vr.vrcore.common.VrCoreListenerService"
+            android:exported="false"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="com.google.intent.category.DAYDREAM" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
