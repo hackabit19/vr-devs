@@ -1,3 +1,4 @@
+![Logo](images/logo.png)
 # Aim
 To utilize music therapy (administration of specific, research proven beat frequencies) combined with visual parallel realities to create an experience aimed at calming the viewer. We believe, given the magnitude of research articles done on the effects of music therapy on anxiety, depressive moods and similar things, our product will be able to deliver virtual immersive environments, using Virtual Reality, that administer effective music therapy to the end user.
 

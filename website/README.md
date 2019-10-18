@@ -1,4 +1,4 @@
 # Getting Started with Website
 
-![Start Android Workflow](logo.png)
+![Logo](images/logo.png)
 

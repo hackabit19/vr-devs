@@ -1,5 +1,7 @@
 # Getting Started with the Product
 
+![Logo](images/logo.png)
+
 Basic idea is to search for the kind of environment (visual and auditory) that helps reduce depressive/anxious mood aggravations.
 Background research for the same is our first priority before we develop any virtual environement:
 
