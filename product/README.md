@@ -1,6 +1,5 @@
 # Getting Started with the Product
 
-<<<<<<< HEAD
 Our basic idea is to search for the kind of environment (visual and auditory) that helps reduce depressive/anxious mood aggravations.
 
 Background research for the same is our first priority before we develop any virtual environment. We have moved the detaild research to the end, in order to keep the basics of our approach consice.
@@ -15,12 +14,10 @@ Based on our preliminary research, we have come across a couple of different tec
 2. Mood Induction Procedures: the techniques developed (ever since the work of Schachter and Singer where they talk about how physiological emotions elicited are tried to be connected to stimuli cues) that allow induction of specific positive (or even negative) emotions in the subject. 
 
 # Literature on the effect of different frequencies on the mood of the subject. We have usually targeted articles on moods relating to anxiety, negative thoughts, and similar depressive moods.
-=======
 ![Logo](images/logo.png)
 
 Basic idea is to search for the kind of environment (visual and auditory) that helps reduce depressive/anxious mood aggravations.
 Background research for the same is our first priority before we develop any virtual environement:
->>>>>>> e26876fb4e0e3364d32223416e27cdd8ece1c47e
 
 1. A pilot study comparing reduction of anxiety by binaural beat audio and patient-selected music in the pre-operative period. (https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2044.2006.04944_12.x): Inducing brain-wave states with binaural auditory beats has been used to decrease anxiety and behavioral problems, and improve mood
 
