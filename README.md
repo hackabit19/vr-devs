@@ -4,8 +4,13 @@ To utilize music therapy (administration of specific, research proven beat frequ
 
 # Project Log:
 
+## Development phase
+### [10/19/2019 2.21 AM]
+
+1. Initialing a basic Unity 3D project and beginning development of a simple VR scene.
+
 ## Sharpening our tools [Planning phase]
-### [10/19/2019 10.00 PM]: 
+### [10/18/2019 10.00 PM]: 
 
 1. Collection of research articles that may help to generate effective virtual environments.
 
