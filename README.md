@@ -16,7 +16,12 @@ Solutions we found to the problems faced in the previous scene:
 
 2. LOD (Level of Depth): Unreal Engine supports a mechanism to divide a mesh into several simpler meshes. The farther the renderer (the camera) from the mesh, the simpler (less number of vertices, hence requiring less computation) the mesh becomes.
 
-The above two factors (with a number of other factors) allows the app to be deployed on an Android phone.
+3. Static/Dynamic Batching: Similar objects are drawn on the screen together, making sure their textures, materials etc. are loaded only once.
+
+4. Baked lighting: Unity's system of pre-calculating the lighting in the scene, and baking (merging the lights and shadows) onto the very texture of the mesh under consideration.
+
+The above factors (along with other several) allows Unity to deploy the scene on Android.
+
 ### [10/19/2019 6.46 AM]
 Development begins for a new scene.
 ### [10/19/2019 5.53 AM]
