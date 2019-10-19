@@ -8,6 +8,25 @@ To utilize music therapy (administration of specific, research proven beat frequ
 # Project Log:
 
 ## Development phase
+
+### [10/19/2019 5.53 AM]
+
+First four build tests failed! Build APKs available in product/Forest Scene, with additional instructions to download and extract the Unity project. 
+
+The basic scene got built, and it looked like the following:
+<img src="images/First_draft_scene.jpg" height="50"/> 
+
+Now that we run the application on a Google Pixel, we see the main problem accompanying deployment of high-end graphics on Android devices: the amount of requests the application makes to the GPU to render the application. After a bit of search online, we find the following to be the problems:
+
+1. The above scene, simply put, is intensive. This implies it has lot of vertices (and polygons) for the GPU to render. 
+
+2. Lighting and shadows takes computation power (lots of it) to render. 
+
+3. Imagine a highly detailed object (~ 1000 vertices) in the scene. When the player sees that object from a considerable distance, they don't see the details (just the normal shape and some texture). But Unity renders the entire mesh, textures, and lighting as if you were viewing the object up close. This assumption takes GPU resources.
+
+We look to minimize these in our next commit.
+
+
 ### [10/19/2019 2.21 AM]
 
 1. Initializing a basic Unity 3D project and beginning development of a simple VR scene.
