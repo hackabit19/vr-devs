@@ -12,7 +12,7 @@ To utilize music therapy (administration of specific, research proven beat frequ
 ### [10/19/2019 7.30 PM]
 Scene 1 testing and deployment checked. In order to achieve a spatializer sound experience, Oculus SDK for spatializer sound effects has been used. Update of the repo paused due to huge size of the project files.
 
-Beginning work on scene 2 and on the website.
+Beginning work on scene 2 and on the website. The application has been tested on Android, built with a minimum Android API level requirement 19 for Google Cardboard, in order to allow a majority of Android users to use the application with modern smartphone devices. 
 
 ### [10/19/2019 12.20 PM]
 Demo video created.
