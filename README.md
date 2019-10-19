@@ -14,6 +14,8 @@ Scene 1 testing and deployment checked. In order to achieve a spatializer sound 
 
 Beginning work on scene 2 and on the website. The application has been tested on Android, built with a minimum Android API level requirement 19 for Google Cardboard, in order to allow a majority of Android users to use the application with modern smartphone devices. 
 
+No lag or FPS drops observed. The application now renders in a single pass per frame on the mobile, implying both the eyes are rendered simultaneously, thereby boosting performance. 
+
 ### [10/19/2019 12.20 PM]
 Demo video created.
 ### [10/19/2019 11.40 AM]
