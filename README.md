@@ -8,10 +8,11 @@ To utilize music therapy (administration of specific, research proven beat frequ
 # Project Log:
 
 ## Development phase
-
+### [10/19/2019 6.46 AM]
+The revamped scene begins being worked on!
 ### [10/19/2019 5.53 AM]
 
-First four build tests failed! Build APKs available in product/Forest Scene, with additional instructions to download and extract the Unity project. 
+First four build tests FAILED! Build APKs available in 'product/Forest Scene', with additional instructions to download and extract the Unity project. 
 
 The basic scene got built, and it looked like the following:
 
@@ -25,7 +26,7 @@ Now that we run the application on a Google Pixel, we see the main problem accom
 
 3. Imagine a highly detailed object (~ 1000 vertices) in the scene. When the player sees that object from a considerable distance, they don't see the details (just the normal shape and some texture). But Unity renders the entire mesh, textures, and lighting as if you were viewing the object up close. This assumption takes GPU resources.
 
-We look to minimize these in our next commit.
+We look to minimize these in our next commit. The core of these issues is the fact that mobile GPUs have to undergo stereo-pass rendering (rendering one frame twice, one for each eye) in order to run a VR application on Android. The increased load leads to FPS drop, latency, and distorted graphics.
 
 
 ### [10/19/2019 2.21 AM]
