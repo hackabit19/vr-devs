@@ -14,7 +14,7 @@ To utilize music therapy (administration of specific, research proven beat frequ
 First four build tests failed! Build APKs available in product/Forest Scene, with additional instructions to download and extract the Unity project. 
 
 The basic scene got built, and it looked like the following:
-<img src="images/First_draft_scene.jpg" height="50"/> 
+<img src="images/First_draft_scene.jpg" height="150"/> 
 
 Now that we run the application on a Google Pixel, we see the main problem accompanying deployment of high-end graphics on Android devices: the amount of requests the application makes to the GPU to render the application. After a bit of search online, we find the following to be the problems:
 
