@@ -8,7 +8,7 @@ To utilize music therapy (administration of specific, research proven beat frequ
 # Project Log:
 
 ## Development phase
-### [10/19/2019 6.46 AM]
+### [10/19/2019 11.40 AM]
 Solutions we found to the problems faced in the previous scene:
 
 1. Occlusion Culling: Don't render what you don't see. The image below shows the Occlusion map generated for the current scene. We have designed our scene in a way to ensure maximization of Occlusion.
@@ -17,7 +17,8 @@ Solutions we found to the problems faced in the previous scene:
 2. LOD (Level of Depth): Unreal Engine supports a mechanism to divide a mesh into several simpler meshes. The farther the renderer (the camera) from the mesh, the simpler (less number of vertices, hence requiring less computation) the mesh becomes.
 
 The above two factors (with a number of other factors) allows the app to be deployed on an Android phone.
-
+### [10/19/2019 6.46 AM]
+Development begins for a new scene.
 ### [10/19/2019 5.53 AM]
 
 First four build tests FAILED! Build APKs available in 'product/Forest Scene', with additional instructions to download and extract the Unity project. 
