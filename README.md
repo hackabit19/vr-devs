@@ -9,6 +9,11 @@ To utilize music therapy (administration of specific, research proven beat frequ
 
 ## Development phase
 
+### [10/19/2019 7.30 PM]
+Scene 1 testing and deployment checked. In order to achieve a spatializer sound experience, Oculus SDK for spatializer sound effects has been used. Update of the repo paused due to huge size of the project files.
+
+Beginning work on scene 2 and on the website.
+
 ### [10/19/2019 12.20 PM]
 Demo video created.
 ### [10/19/2019 11.40 AM]
