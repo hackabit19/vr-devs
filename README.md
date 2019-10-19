@@ -8,6 +8,9 @@ To utilize music therapy (administration of specific, research proven beat frequ
 # Project Log:
 
 ## Development phase
+
+### [10/19/2019 12.20 PM]
+Demo video created.
 ### [10/19/2019 11.40 AM]
 Solutions we found to the problems faced in the previous scene:
 
