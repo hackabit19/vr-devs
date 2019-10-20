@@ -7,6 +7,9 @@
 # Contents
 1. Aim
 2. 
+3. Project Log
+
+Promo video: Link to promo video: https://drive.google.com/open?id=1vGEUJYrwM7EHdV0KzXYitCrW3WXj-J0N
 
 # Aim
 We aim to combine music therapy and mood induction procedures in order to create immersive virtual environments which engage the user while we administer music therapy. It has been research driven () that proper administration of music therapy can help in reducing anxiety, depressive mood, negative thoughts etc. We believe that, given the reluctancy of some part of the population to imagine such a thing can happen to anybody and thereby approach medical care professionals, such tech based solutions as ours can go a long way in helping them while maintaining their privacy and anonymity, thereby keeping them confortable thoughtout the entire process.
