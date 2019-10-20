@@ -4,8 +4,12 @@
 
 ![Android](https://img.shields.io/badge/android-API%2019-green) ![Code Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
 
+# Contents
+1. Aim
+2. 
+
 # Aim
-To utilize music therapy (administration of specific, research proven beat frequencies) combined with visual parallel realities to create an experience aimed at calming the viewer. We believe, given the magnitude of research articles done on the effects of music therapy on anxiety, depressive moods and similar things, our product will be able to deliver virtual immersive environments, using Virtual Reality, that administer effective music therapy to the end user.
+We aim to combine music therapy and mood induction procedures in order to create immersive virtual environments which engage the user while we administer music therapy. It has been research driven () that proper administration of music therapy can help in reducing anxiety, depressive mood, negative thoughts etc. We believe that, given the reluctancy of some part of the population to imagine such a thing can happen to anybody and thereby approach medical care professionals, such tech based solutions as ours can go a long way in helping them while maintaining their privacy and anonymity, thereby keeping them confortable thoughtout the entire process.
 
 Promo video: Link to promo video: https://drive.google.com/open?id=1vGEUJYrwM7EHdV0KzXYitCrW3WXj-J0N
 
