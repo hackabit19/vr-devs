@@ -11,6 +11,9 @@ To utilize music therapy (administration of specific, research proven beat frequ
 
 ## Development phase
 
+### [10/20/2019 7.02 AM]
+Testing of both scene 1 and scene 2 successful (built on Google Cardboard with minimum required Android API level 19).
+
 ### [10/20/2019 5.30 AM]
 A very basic implementation of scene 2 finishes and build tested.
 
