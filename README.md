@@ -19,10 +19,11 @@ Promo video: Link to promo video: https://drive.google.com/open?id=1vGEUJYrwM7EH
 # Scene captures
 Scene 1: An abstract alien environment designed to disconnect the user from reality, and take them into a world that is quiet, serene, and devoid of the rush of life.
 
-<img src="images/Pic1.PNG" height="100"/> 
+<img src="images/Pic1.PNG" height="200"/> 
 
 Scene 2 (more work to be continued after the hackathon): Journey to our attempt at recreating Atlantis. More additions to follow soon.
-<img src="images/Pic2.PNG" height="100"/> 
+
+<img src="images/Pic2.PNG" height="200"/> 
 
 # Project Log:
 
