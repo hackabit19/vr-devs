@@ -21,6 +21,9 @@ Scene 1: An abstract alien environment designed to disconnect the user from real
 
 <img src="images/Pic1.PNG" height="100"/> 
 
+Scene 2 (more work to be continued after the hackathon): Journey to our attempt at recreating Atlantis. More additions to follow soon.
+<img src="images/Pic2.PNG" height="100"/> 
+
 # Project Log:
 
 ## Development phase
