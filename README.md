@@ -10,7 +10,11 @@ To utilize music therapy (administration of specific, research proven beat frequ
 # Project Log:
 
 ## Development phase
-### [10/19/2019 2.30 PM]
+
+### [10/20/2019 5.30 AM]
+A very basic implementation of scene 2 finishes and build tested.
+
+### [10/20/2019 2.30 AM]
 Work begins on scene 2. We are trying to emulate some underwater fantasy scenes.
 
 ### [10/19/2019 7.30 PM]
