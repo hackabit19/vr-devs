@@ -10,6 +10,8 @@ To utilize music therapy (administration of specific, research proven beat frequ
 # Project Log:
 
 ## Development phase
+### [10/19/2019 2.30 PM]
+Work begins on scene 2. We are trying to emulate some underwater fantasy scenes.
 
 ### [10/19/2019 7.30 PM]
 Scene 1 testing and deployment checked. In order to achieve a spatializer sound experience, Oculus SDK for spatializer sound effects has been used. Update of the repo paused due to huge size of the project files.
